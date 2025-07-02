@@ -1,0 +1,49 @@
+
+PDA Voice Command Notes
+========================
+
+🕒 Date & Time
+--------------
+- “What is the time?”
+- “Tell me the time”
+- “What is the date today?”
+- “Tell me the date”
+
+🌐 Open Websites
+----------------
+- “Open Google”
+- “Open YouTube”
+- “Open Gmail”
+- “Open GitHub”
+- “Open ChatGPT”
+- “Open Wikipedia”
+
+🔍 Search (Fallback)
+---------------------
+- “Open Netflix” → If not predefined, opens Google Search
+- “Go to Python programming” → Google Search
+
+🌤️ Weather (Current Location)
+------------------------------
+- “What’s the weather in my current location?”
+- “Show me the current weather”
+
+📰 News Headlines (Web Scraping)
+---------------------------------
+- “Show me the news”
+- “Latest headlines”
+- “What’s in the news today?”
+- “Latest news”
+
+📚 Web Info (Wikipedia Summary)
+-------------------------------
+- “Tell me about Elon Musk”
+- “What is Artificial Intelligence?”
+- “Who is Virat Kohli?”
+
+🧮 Open Local Apps (Windows)
+----------------------------
+- “Open Calculator”
+- “Open Notepad”
+- “Open Paint”
+- “Open File Manager” / “Open Explorer”
